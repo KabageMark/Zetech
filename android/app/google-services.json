@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515469815293",
+    "firebase_url": "https://zetech-2a505.firebaseio.com",
+    "project_id": "zetech-2a505",
+    "storage_bucket": "zetech-2a505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515469815293:android:e708885415b4cc563b3d94",
+        "android_client_info": {
+          "package_name": "com.example.zetech_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515469815293-napihtl7p4bts1jqhom647t96n2ngldv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHllOd9t47EnUWq4D51DVOv-bU3w_5LxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515469815293-napihtl7p4bts1jqhom647t96n2ngldv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
